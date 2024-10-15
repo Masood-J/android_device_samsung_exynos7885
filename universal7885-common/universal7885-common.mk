@@ -344,9 +344,8 @@ PRODUCT_PACKAGES += \
 
 # Samsung Ext Flash
 PRODUCT_PACKAGES += \
-    FlashControl \
     SmartCharge
-
+    
 PRODUCT_PACKAGES += \
     vendor.lineage.touch@1.0-service.samsung \
     vendor.lineage.touch@1.0-service.ss \
